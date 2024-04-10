@@ -1,5 +1,11 @@
 const $ = document.querySelector.bind(document);
-const output = "Hello World";
+
+function add(a,b){
+  let c = a + b;
+  return c;
+}
+
+const output = add(2,3)
 
 $("#output").innerHTML = output;
 console.log(output);
