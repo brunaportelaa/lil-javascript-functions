@@ -1,3 +1,9 @@
+# Bruna Portela
+You will notice that the only branches I have committed to are the ones finished with "_solved".
+
+The ones finished with "b" represent the unresolved exercises that I worked with. The ones finished with "e" represent the solution provided by the teacher.
+
+
 # Javascript: Functions 
 This is the repository for the LinkedIn Learning course Javascript: Functions. The full course is available from [LinkedIn Learning][lil-course-url].
 
